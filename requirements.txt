@@ -4,3 +4,4 @@ streamlit_option_menu
 streamlit_chat
 datetime 
 joblib
+sklearn
