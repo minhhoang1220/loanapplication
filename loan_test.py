@@ -6,7 +6,13 @@ from streamlit_chat import message
 from datetime import datetime 
 
 # Upload model
-model = joblib.load(r'random_forest_pipeline.pkl')
+try:
+    model = joblib.load(r'random_forest_pipeline.pkl')
+except FileNotFoundError:
+    st.error("Model file not found. Please check the file path.")
+except Exception as e:
+    st.error(f"Error loading the model: {str(e)}")
+
 
 def predict_loan_status(model, user_data):
     predicted_result = model.predict(user_data)
