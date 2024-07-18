@@ -6,7 +6,7 @@ from streamlit_chat import message
 from datetime import datetime 
 
 # Upload model
-model = joblib.load(r'random_forest_pipeline.pkl')
+model = joblib.load('random_forest_pipeline.pkl')
 
 def predict_loan_status(model, user_data):
     predicted_result = model.predict(user_data)
