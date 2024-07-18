@@ -1,0 +1,24 @@
+Gender,Married,Dependents,Education,Self_Employed,Property_Area,Credit_History,Loan_Amount_Term,Total_Income,Loan_Amount
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,1,Graduate,Yes,Rural,1.0,12,20000,10000
+Male,Yes,1,Graduate,Yes,Urban,1.0,12,25100,100000
+Male,Yes,1,Graduate,Yes,Urban,1.0,12,25100,100000
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0
+Male,Yes,1,Graduate,Yes,Rural,1.0,24,7000,10000
+Male,No,0,Not Graduate,No,Rural,0.0,24,300,10000
+Male,Yes,3+,Graduate,Yes,Urban,1.0,12,300,10000
+Male,No,3+,Graduate,Yes,Urban,0.0,24,300,10000
+Male,No,3+,Graduate,Yes,Rural,1.0,12,7000,10000
+Male,Yes,0,Graduate,Yes,Urban,1.0,24,100,0
+Male,Yes,0,Graduate,Yes,Urban,1.0,12,0,0

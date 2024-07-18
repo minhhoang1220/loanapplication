@@ -1,0 +1,78 @@
+/* style.css */
+.header {
+    background-color: black;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.header h1, .header h2 {
+    color: white;
+    margin: 0;
+}
+
+.centered-title h1, .centered-title h2 {
+    text-align: center;
+    font-size: 2em;
+}
+
+.main-container {
+    max-width: 1400px; /* Increase the max-width for a wider body */
+    margin: 0 auto;
+    padding: 0 20px; /* Optional: Add some padding for better spacing */
+}
+
+body {
+    background-color: #ff0000; /* Red background */
+    color: #333; /* Dark gray text */
+}
+
+#root {
+    max-width: 2000px; /* Increase the overall width */
+    margin: 0 auto;
+}
+
+.stButton button {
+    background-color: #4CAF50; /* Green button */
+    color: white; /* White text */
+}
+
+.stButton button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.stSidebar {
+    background-color: #f8f8f8; /* Light gray sidebar */
+    border-right: 1px solid #ddd; /* Light gray border */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+.sidebar-section {
+    margin-bottom: 20px; /* Space between sections */
+}
+
+.sidebar-name {
+    font-size: 2rem; /* Larger font size for the name */
+    font-weight: bold; /* Bold font weight for the name */
+}
+
+.sidebar-updated {
+    font-size: 0.9em; /* Smaller font size for the updated date */
+    color: rgb(138, 138, 138); /* Black color for the updated date */
+    font-weight: bold; /* Bold font weight for the updated date */
+}
+
+.sidebar-box {
+    background-color: white; /* White background for the box */
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding inside the box */
+}
+
+.sidebar-box p{
+    text-decoration: none;
+}
+
+.sidebar-box p {
+    margin: 5px 0; /* Space between paragraphs */
+}
